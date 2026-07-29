@@ -1,3 +1,5 @@
+[日本語](README.ja.md)
+
 # Software Portfolio
 
 Rooted in R&D in broadcasting and telecommunications, I design and implement across **video, 3D measurement, embedded systems, and distributed processing** — end to end, from close-to-hardware layers up to applications. My primary language is **C# / .NET**; I also use C/C++, Python, and Kotlin daily.
